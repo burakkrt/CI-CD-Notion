@@ -11,7 +11,7 @@ Bir projede birden fazla geliştiricinin yaptığı değişiklikler projeye ente
 
 </aside>
 
-### Continous Deliey (Sürekli Teslimat  ve  Sürekli Dağıtım- CD)
+### Continous Delivery (Sürekli Teslimat  ve  Sürekli Dağıtım- CD)
 
 **CI ‘ işlemlerinden sonra projenin dağıtıma hazır hale getirilip kullanıcıya sunulması işlemleridir.**
 
